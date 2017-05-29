@@ -13,7 +13,7 @@ var webpackConfig = {
 
 gulp.task('default', ['build']);
 gulp.task('build', ['build-client', 'build-server']);
-gulp.task('watch', ['watch-client', 'watch-server'])
+gulp.task('dev', ['watch-client', 'watch-server'])
 
 // client
 gulp.task('watch-client', ['build-client'], function(){
