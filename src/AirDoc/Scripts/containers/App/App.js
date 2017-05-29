@@ -90,7 +90,7 @@ class App extends Component {
           {this.props.children}
           <hr />
           <footer>
-            <p>&copy; 2016 - {config.app.title}</p>
+            <p className="text-center">&copy; 2017 - Copyright by {config.app.title} & TMA Solution</p>
           </footer>
         </div>
         <TwoFactorModal />

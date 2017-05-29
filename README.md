@@ -4,6 +4,7 @@ Prerequisite
 - go to project directory: `$ cd ./src/AirDoc`
 - run command: `$ npm install`
 - Visual Studio 2017 with .Net core installed.
+- Sql Server 2014 (or 2016) installed.
 
 It's time to use Gulp tasks:
 - `$ gulp` or `$ gulp build` to build an Production (optimized) version of your application

@@ -11,45 +11,44 @@ class Home extends Component {
         <Carousel>
           <CarouselItem>
             <img
-              src={require('./ASP-NET-Banners-01.png')}
+              src={require('./Banners-01.png')}
               alt="ASP.NET"
               className="img-responsive"
             />
             <div className="carousel-caption">
               <p>
-                Learn how to build ASP.NET apps that can run anywhere.
-                <a className="btn btn-default btn-default" href="http://go.microsoft.com/fwlink/?LinkID=525028&clcid=0x409">
-                  Learn More
+                This application based on Ethereum - powerful blockchain technology.
+                <a className="btn btn-default btn-default" href="https://www.ethereum.org/">
+                  Read More
                 </a>
               </p>
             </div>
           </CarouselItem>
           <CarouselItem>
             <img
-              src={require('./Banner-02-VS.png')}
+              src={require('./Banners-02.png')}
               alt="Visual Studio"
               className="img-responsive"
             />
             <div className="carousel-caption">
               <p>
-                There are powerful new features in Visual Studio for building modern web apps.
-                <a className="btn btn-default btn-default" href="http://go.microsoft.com/fwlink/?LinkID=525030&clcid=0x409">
-                  Learn More
+                This application build by strong, innovative, creative and professional team from TMA Solution.
+                <a className="btn btn-default btn-default" href="http://www.tmasolutions.com/">
+                  Read More
                 </a>
               </p>
             </div>
           </CarouselItem>
           <CarouselItem>
             <img
-              src={require('./ASP-NET-Banners-02.png')}
+              src={require('./Banners-03.png')}
               alt="Package Management"
               className="img-responsive"
             />
             <div className="carousel-caption">
               <p>
-                Bring in libraries from NuGet, Bower, and npm, and automate
-                tasks using Grunt or Gulp.
-                <a className="btn btn-default btn-default" href="http://go.microsoft.com/fwlink/?LinkID=525029&clcid=0x409">
+                Blockchain is a distributed database that maintains a continuously growing list of records, called blocks, secured from tampering and revision.
+                <a className="btn btn-default btn-default" href="https://en.wikipedia.org/wiki/Blockchain">
                   Learn More
                 </a>
               </p>
@@ -57,16 +56,15 @@ class Home extends Component {
           </CarouselItem>
           <CarouselItem>
             <img
-              src={require('./Banner-01-Azure.png')}
+              src={require('./Banners-04.png')}
               alt="Microsoft Azure"
               className="img-responsive"
             />
             <div className="carousel-caption">
               <p>
-                Learn how Microsoft's Azure cloud platform allows you to build,
-                deploy, and scale web apps.
-                <a className="btn btn-default btn-default" href="http://go.microsoft.com/fwlink/?LinkID=525027&clcid=0x409">
-                  Learn More
+                TMA Solution always bring best solution for your business.
+                <a className="btn btn-default btn-default" href="http://www.tmasolutions.com/">
+                  Read More
                 </a>
               </p>
             </div>

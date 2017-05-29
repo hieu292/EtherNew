@@ -1,11 +1,11 @@
 export default {
   app: {
-    title: 'ASP.NET React Example',
-    description: 'This is an example, using React with ASP.NET MVC.',
+    title: 'AirDoc',
+    description: 'This is an BlockChain Application, using React, ASP.NET Core, Ethereum by AirDoc and TMA Solution.',
     head: {
-      titleTemplate: 'React Example: %s',
+      titleTemplate: 'AirDoc - TMA Solution: %s',
       meta: [
-        { name: 'description', content: 'This is an example, using React with ASP.NET MVC.' },
+        { name: 'description', content: 'This is an BlockChain Application, using React, ASP.NET Core, Ethereum by AirDoc and TMA Solution.' },
       ]
     }
   }
